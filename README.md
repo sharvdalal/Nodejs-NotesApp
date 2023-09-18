@@ -22,7 +22,7 @@ Notes Lab is a web-based notes application that allows users to create, update, 
 
 ## Create a .env file Add the following to .env file
 
-PORT=3000
+
 - **MONGODB_URI=your-mongodb-connection-string**
 - **GOOGLE_CLIENT_ID=your-google-client-id**
 - **GOOGLE_CLIENT_SECRET=your-google-client-secret**
