@@ -94,3 +94,43 @@ h1,h2,h3,h4,h5,h6 {
   right: -50px;
   bottom: -30px;
 }
+
+/* About Section */
+#about {
+  padding: 40px;
+  border-radius: 10px;
+
+  margin-top: 20px;
+}
+
+#about h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+#about h3 {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+#about p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+#about ul {
+  list-style: disc;
+  margin-left: 20px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+#about a {
+  color: var(--bs-primary-rgb);
+  text-decoration: underline;
+}
+
+#about a:hover {
+  color: #0043a8;
+}
